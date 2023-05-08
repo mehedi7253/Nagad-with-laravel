@@ -11,7 +11,8 @@
         "karim007/laravel-nagad": "^1.0",
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "shurjomukhi/shurjopay-plugin-php": "^0.1.1"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
